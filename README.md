@@ -4,7 +4,8 @@ Se ha pedido crear un modulo para generar ticktes que contenga lo siguiente:
 Un menu con 3 opciones : 
 1 Alta ticket , 
 2 Leer ticket , 
-3 Salir.
+3 Mostrar tickets,
+4 Salir.
 
 1 Alta ticket :
 nombre, 
@@ -24,4 +25,6 @@ al ingresar el numero nos mostrara por pantalla el ticket almacenado
 debajo del mismo aparece una leyanda que nos preguntara si deseamos leerotro ticket, 
 teniendo la funcionalidad similar a la anteriormente mensionada.
 
-3 Salir : el programa finaliza y se cierra pidiendonos una confirmacion
+3 debe mostrar los numeros de tickets ingresados con el proposito de memorizar uno para leerlo con la función 2
+
+4 Salir : el programa finaliza y se cierra pidiendonos una confirmacion
