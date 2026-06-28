@@ -39,3 +39,13 @@ teniendo la funcionalidad similar a la anteriormente mensionada.
 el programa comienza en main  
 se ejecuta el ingreso de la primer pantalla de PantallasEC02.py
 
+si ingreso un 1, es porque se quiere ingresar un ticket
+entonces llama a la funcion ingresar_ticket de IngresarTicketEC02.py
+la funcion llama a la funcion leer_json de JsonEC02.py
+el archivo Ticket.json se debe encontrar creado en el directorio del proyecto
+el archivo tiene una lista, donde cada entrada es un diccionario
+es decir es una lista de diccionarios
+el archivo json se guarda en la lista Tickets
+la funcion leer tickets toma cada elemento de la lista de ticket que es un diccionario
+de cada diccionario toma la key numero_ticket hasta encontrar el valor del numero de ticket ingresado
+
