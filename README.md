@@ -1,12 +1,12 @@
-# Tecno3FPythonIntro  
-# Trabajo Practico Final Tickets  
-# {
-#    'Centro de estudios' : 'Tecno3F',
-#    'Curso' : ' Introducción al Python'
-#    'Profesor' : 'Gabriel Roman'
-#    'Alumno' : 'Eduardo Cruz'
-#    'Trabajo' : 'Trabajo Práctico Final Tickets Management'
-# }
+## Tecno3FPythonIntro  
+### Trabajo Practico Final Tickets  
+#### {
+####    'Centro de estudios' : 'Tecno3F',
+####    'Curso' : ' Introducción al Python',
+####    'Profesor' : 'Gabriel Roman',
+####    'Alumno' : 'Eduardo Cruz',
+####    'Trabajo' : 'Trabajo Práctico Final Tickets Management'
+#### }
 Se ha pedido crear un modulo para generar ticktes que contenga lo siguiente:  
 Un menu con 3 opciones :  
 1 Alta ticket ,   
