@@ -1,12 +1,12 @@
-<p style="line-height: 85%;">## Tecno3FPythonIntro  </p>
-<p style="line-height: 85%;">### Trabajo Practico Final Tickets  </p>
-<p style="line-height: 85%;">#### {</p>
-<p style="line-height: 85%;">####    'Centro de estudios' : 'Tecno3F',</p>
-<p style="line-height: 85%;">####    'Curso' : ' Introducción al Python',</p>
-<p style="line-height: 85%;">####    'Profesor' : 'Gabriel Roman',</p>
-<p style="line-height: 85%;">####    'Alumno' : 'Eduardo Cruz',</p>
-<p style="line-height: 85%;">####    'Trabajo' : 'Trabajo Práctico Final Tickets Management'</p>
-<p style="line-height: 85%;">#### }</p>
+<p style="line-height: 75%;"># Tecno3FPythonIntro  </p>
+<p style="line-height: 75%;"># Trabajo Practico Final Tickets  </p>
+<p style="line-height: 75%;">## {</p>
+<p style="line-height: 75%;">##    'Centro de estudios' : 'Tecno3F',</p>
+<p style="line-height: 75%;">##    'Curso' : ' Introducción al Python',</p>
+<p style="line-height: 75%;">##    'Profesor' : 'Gabriel Roman',</p>
+<p style="line-height: 75%;">##    'Alumno' : 'Eduardo Cruz',</p>
+<p style="line-height: 75%;">##    'Trabajo' : 'Trabajo Práctico Final Tickets Management'</p>
+<p style="line-height: 75%;">## }</p>
 Se ha pedido crear un modulo para generar ticktes que contenga lo siguiente:  
 Un menu con 3 opciones :  
 1 Alta ticket ,   
